@@ -36,11 +36,11 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 
 [IMG]https://s26.postimg.cc/9cy0577nd/Feature_List2.png[/IMG]
 
-[U][B][SIZE="4"]ColtOS V3.0 [/U][/B][/SIZE]
+[U][B][SIZE="4"]ColtOS V3.1 [/U][/B][/SIZE]
 
 [B][COLOR="#1976D2"][U]General[/U][/COLOR][/B]
 * Android 9.0
-* Security Update: 05 Oct 2018, r10
+* Security Update: 05 Nov 2018, r16
 * New ColtOS Wallpaper
 * New Bootanimations
 
@@ -65,16 +65,17 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 * Battery Customizations
 * Brightness Control
 * Double tap to sleep
-* 4G / LTE icon toggle
+* 4G / LTE / ADB Notification  icon toggle
                                                                                                              
 [B][COLOR="#1976D2"][U]Quick settings[/U][/COLOR][/B]
 * Quick Pull Down
 * QS Opacity
 * Brightness Slider & Position
 * Smart Pull Down
+* Lots of QS Tile Styles
 * QS tiles view customization (Number of small QS tiles, rows and columns)
 * Row & Colums Customization embedded into qs 3dot menu
-
+* Vibrate QS tiles on touch & QS footer warning toggle
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B]
 * Sound QS tile
 * PiP QS tile
@@ -85,25 +86,33 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 * Add/Remove tiles with one touch                                                                                                             
 
 [B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B]
-* Recent Style Swith
+* Recent Style Swith (Oreo and Pie)
 * Clear all FAB
 * Clear all FAB location
 
 [B][COLOR="#1976D2"][U]Volume Button Settings[/U][/COLOR][/B]
 * Volume Rocker Settings
-* Rest all the normar buttons setting like touch/action and all
+* Rest all the normat buttons setting like touch/action and all
 
 [B][COLOR="#1976D2"][U]Navigation bar[/U][/COLOR][/B]
 * Navbar on/off
 * Navbar Customization
 
+[B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B]
+* Heads Up
+* Battery Charging Light
+* In call Vibration Option
+
 [B][COLOR="#1976D2"][U]Lock screen[/U][/COLOR][/B]
 * Lockscreen Charging info
 * Double tap to sleep
+* Weather
 * Lockscreen Shortcuts
+* FingerPrint Options Toggle line auto face unlock and vibration
 
 [B][COLOR="#1976D2"][U]Powermenu[/U][/COLOR][/B]
 * Power Menu Optional Toggles
+* Power Menu Scroll
 
 
 [B][COLOR="#1976D2"][U]Colt Decorator [/U][/COLOR][/B]
