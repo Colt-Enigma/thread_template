@@ -36,29 +36,39 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 
 [IMG]https://s26.postimg.cc/9cy0577nd/Feature_List2.png[/IMG]
 
-[U][B][SIZE="4"]ColtOS V3.0 [/U][/B][/SIZE]
+[U][B][SIZE="4"]ColtOS V4.2 [/U][/B][/SIZE]
 
 [B][COLOR="#1976D2"][U]General[/U][/COLOR][/B][list]
 [*]Android 9.0
-[*]Security Update: 05 March 2019, r34
+[*]Security Update: 05 May 2019, r37
 [*]New ColtOS Wallpaper
-[*]New Bootanimations [/list]
+[*]New Bootanimations 
+[*]Brndify Setting Dashboard[/list]
+
+[B][COLOR="#1976D2"][U]Battery[/U][/COLOR][/B][list]
+[*]Smart Charging
+[*]Smart Pixel[/list]
 
 [B][COLOR="#1976D2"][U]Display[/U][/COLOR][/B][list]
-[*]Night light
+[*]Brightness level
 [*]Adaptive brightness
+[*]LiveDisplay
+	* Color profile
+	* Display mode
+	* Color temperature
+	* Automatic outdoor mode
+	* Reading mode
+	* Color calibration
+	* Picture adjustment
 [*]Font size
-[*]Ambient display
-	* Always on
-	* New Notification
-	* Show when charging
-	* Pick up
-	* Hand wave
-	* Pocket
+[*]Display size
+[*]Screen saver
 [*]Tap to wake
+[*]Device VR mode
 [*]Fonts Manager
 [*]Dashboard conditions
-[*]Dashboard suggestions[/list]
+[*]Dashboard suggestions
+[*]Brandify settings toggle[/list]
 
 [COLOR="#1976D2"][B][U][SIZE="4"]>>> Colt-Enigma (Our Decoration Room) Includes <<<[/SIZE][/U][/B][/COLOR]
                                                                                                              
@@ -66,8 +76,15 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Statusbar item
 [*]Clock options
 [*]Battery icon
+[*] Aggressive Battery
+	* Aggressive Idle toggle
+	* Aggressive Standby toggle
+	* Auto enable on battery saver toggle
 [*]Carrier label
+[*]Notification Ticker
 [*]Network Traffic
+[*]Net activity type
+[*]Traffic indicator placement
 [*]Brightness controll
 [*]Old mobile type signal style
 [*]4G/LTE icon toggle
@@ -85,10 +102,15 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Adaptive brightness button toggle
 [*]Brightness controll button
 [*]Disable quick settings when locked toggle
+[*]QS Header for Colt
 [*]QS Tile style
 [*]Quick Pull Down
 [*]Smart Pull Down
-[*]Vibrate on touch[/list]
+[*]Vibrate on touch
+[*]Settings icon toggle
+[*]Running Services icon toggle
+[*]QS footer warnings
+[*]Bluetooth battery status[/list]
 
 [B][COLOR="#1976D2"][U]QS Tiles[/U][/COLOR][/B][list]
 [*]Sound QS tile
@@ -99,7 +121,21 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Sync QS tile
 [*]NFC QS tile
 [*]Row & Colums Customization embedded into qs 3dot menu
-[*]Add/remove tile with one touch [/list]                                                                                                           
+[*]Add/remove tile with one touch [/list]  
+
+[B][COLOR="#1976D2"][U]Advance Display[/U][/COLOR][/B][list]
+[*]Smart Pixels[/list]
+
+[B][COLOR="#1976D2"][U]Animations[/U][/COLOR][/B][list]
+[*]QS Tile Animation
+[*]QS Tile animation duration
+[*]Screen off animation
+[*]ColtEnigma configuration tabs trasition effect
+[*]Toast Animation
+[*]System Animation
+[*]ListView animations
+[*]List View interpolator
+[*]Scrolling cache[/list]                                                                                                             
 
 [B][COLOR="#1976D2"][U]Recents apps[/U][/COLOR][/B][list]
 [*]Recent Style 
@@ -135,6 +171,14 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 	* Vibrate on disconnect [/list]
 
 [B][COLOR="#1976D2"][U]Lock screen Prefrences[/U][/COLOR][/B][list]
+[*]Ambient display
+	* Always on
+	* New Notification
+	* Show when charging
+	* Pick up
+	* Hand wave
+	* Pocket
+	* Battery level on bottom
 [*]Lockscreen charging info
 [*]Double tap to sleep
 [*]Disable statusbar
@@ -142,9 +186,10 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Lockscreen shortcuts
 [*]Lock screen Weather
 [*]Lockscreen UI
-	* Ambient Display (Battery level on bottom)
 	* Locscreen Colors
 	* Clock Styles
+	* Q clock size
+	* Q Text clock alignment
 	* Clock Font options
 	* Date fonts Options
 	* OwnerInfo font options
