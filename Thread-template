@@ -23,16 +23,16 @@ Although there's no bugs experienced by us or testers, if you find any, please l
 We, The ColtTeam, are a small group of working professionals from entirely different industry and have no relation to Android, Programming or Codes.
 As mentioned earlier, we are a young and growing team of learners. We are still learning and helping each other learn as well. Thanks to entire ColtOS team for giving their precious time to this Project.
 
-@Rakesh.Batra : Lead Developer and Founder of ColtOS
-@nitin.chobhe(Project Contibutor/Device Maintainer)
-@SuperDroidBond (Project Contributor)
-@Dragononiv (Project Contibutor/Device Maintainer)
-@Roger.T(Graphics Designer)
-@HAKrBOY(Graphics Designer) ColtOS is beautiful just because of these two Guys:)
-@meet1811 (The Saviour/Moderator)
-@Frozen_Lemon (Motivator/Tester:Made Default Ringtone)
-@srvroxstar (Motivator/Tester)
-@mukesh22584 (Device Maintainer)
+ [MENTION=5985430]Rakesh.Batra[/MENTION] : Lead Developer and Founder of ColtOS
+ [MENTION=5044214]nitin.chobhe[/MENTION](Project Contibutor/Device Maintainer)
+ [MENTION=8829870]SuperDroidBond[/MENTION] (Project Contributor)
+ [MENTION=707157]dragono[/MENTION]niv (Project Contibutor/Device Maintainer)
+ [MENTION=5545371]Roger.T[/MENTION](Graphics Designer)
+ [MENTION=5252359]hakrboy[/MENTION](Graphics Designer) ColtOS is beautiful just because of these two Guys:)
+ [MENTION=5733773]meet1811[/MENTION] (The Saviour/Moderator)
+ [MENTION=6071479]Frozen_Lemon[/MENTION] (Motivator/Tester:Made Default Ringtone)
+ [MENTION=5966381]srvroxstar[/MENTION] (Motivator/Tester)
+ [MENTION=5678679]mukesh22584[/MENTION] (Device Maintainer)
 
 [IMG]https://s26.postimg.cc/9cy0577nd/Feature_List2.png[/IMG]
 
@@ -53,13 +53,13 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Brightness level
 [*]Adaptive brightness
 [*]LiveDisplay
-	* Color profile
-	* Display mode
-	* Color temperature
-	* Automatic outdoor mode
-	* Reading mode
-	* Color calibration
-	* Picture adjustment
+[*]Color profile
+[*]Display mode
+[*]Color temperature
+[*]Automatic outdoor mode
+[*]Reading mode
+[*]Color calibration
+[*]Picture adjustment
 [*]Font size
 [*]Display size
 [*]Screen saver
@@ -76,10 +76,10 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Statusbar item
 [*]Clock options
 [*]Battery icon
-[*] Aggressive Battery
-	* Aggressive Idle toggle
-	* Aggressive Standby toggle
-	* Auto enable on battery saver toggle
+[*]Aggressive Battery
+[*]Aggressive Idle toggle
+[*]Aggressive Standby toggle
+[*]Auto enable on battery saver toggle
 [*]Carrier label
 [*]Notification Ticker
 [*]Network Traffic
@@ -146,39 +146,43 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Immersive recents [/list]
 
 [B][COLOR="#1976D2"][U]Volume Button Settings[/U][/COLOR][/B][list]
+[LIST]
 [*]Navigation bar
-	* Allow navigation bar
-	* Navigation mode
-	* Smartbar settings
-	* Pulse 
+[*]Allow navigation bar
+[*]Navigation mode
+[*]Smartbar settings
+[*]Pulse 
 [*]Volume rockers
-	* Playback controll
-	* Volume rocker wake
-	* Volume key cursor controll
-	* Volume panel on left
-	* Audio panel selection
+[*]Playback controll
+[*]Volume rocker wake
+[*]Volume key cursor controll
+[*]Volume panel on left
+[*]Audio panel selection
 [*]Screen off power button torch
-[*]Automatically turn torch off [/list]
+[*]Automatically turn torch off
+[/LIST]
 
 [B][COLOR="#1976D2"][U]Notifications[/U][/COLOR][/B][list]
+[LIST]
 [*]Heads up
 [*]Dialer Heads up
 [*]Battery charging light
 [*]Blinck flash light on call
 [*]In-call vibration options
-	* Vibrate on connect
-	* Vibrate on call waiting
-	* Vibrate on disconnect [/list]
+[*]Vibrate on connect
+[*]Vibrate on call waiting
+[*]Vibrate on disconnect
+[/LIST]
 
 [B][COLOR="#1976D2"][U]Lock screen Prefrences[/U][/COLOR][/B][list]
 [*]Ambient display
-	* Always on
-	* New Notification
-	* Show when charging
-	* Pick up
-	* Hand wave
-	* Pocket
-	* Battery level on bottom
+[*]Always on
+[*]New Notification
+[*]Show when charging
+[*]Pick up
+[*]Hand wave
+[*]Pocket
+[*]Battery level on bottom
 [*]Lockscreen charging info
 [*]Double tap to sleep
 [*]Disable statusbar
@@ -186,18 +190,18 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Lockscreen shortcuts
 [*]Lock screen Weather
 [*]Lockscreen UI
-	* Locscreen Colors
-	* Clock Styles
-	* Q clock size
-	* Q Text clock alignment
-	* Clock Font options
-	* Date fonts Options
-	* OwnerInfo font options
-	* Clock Widgets
-	* Clock Font size
-	* Item underneath the clock
-	* Date font size
-	* OwnerInfo font size
+[*]Locscreen Colors
+[*]Clock Styles
+[*]Q clock size
+[*]Q Text clock alignment
+[*]Clock Font options
+[*]Date fonts Options
+[*]OwnerInfo font options
+[*]Clock Widgets
+[*]Clock Font size
+[*]Item underneath the clock
+[*]Date font size
+[*]OwnerInfo font size
 [*]Fingerprint authentication vibration
 [*]Face auto unlock
 [*]Lockscreen Visualizer
@@ -209,10 +213,11 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Power Menu Optional Toggles[/list]
 
 [B][COLOR="#1976D2"][U]Colt Decorator [/U][/COLOR][/B][list]
+[LIST]
 [*]Colt Themes
-	* Compose
-	* Default
-	* 9 Other prebuilt themes
+[*]Compose
+[*]Default
+[*]9 Other prebuilt themes
 [*]Wakeup on Charge
 [*]QS Header styles
 [*]Status bar logo
@@ -228,7 +233,8 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Signature spoofing toggle
 [*]Alarm blocker
 [*]Wakelock blocker
-[*]Suspended actions [/list] 
+[*]Suspended actions
+[/LIST]
 
 [COLOR="#1976D2"][B][U] About ColtOS [/U][/COLOR][/B][list]
 [*]Short description about us
@@ -238,8 +244,8 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 [*]Our Team[/list]
 
 [IMG]https://s26.postimg.cc/fqn38h7eh/Download_Links2.png[/IMG]
-
-[CENTER][B][SIZE="6"][URL="xyz"][COLOR="SeaGreen"]Colt Enigma 3.8 Download Link[/COLOR][/URL][/B][/SIZE][/CENTER]
+a-4.2_OFFICIAL-20190527-
+[CENTER][B][SIZE="6"][URL="https://sourceforge.net/projects/coltos/files/"][COLOR="SeaGreen"]Colt Enigma Download Link[/COLOR][/URL][/B][/SIZE][/CENTER]
 
 [IMG]https://s26.postimg.cc/g3ehenhyh/Flashing_Instructions2.png[/IMG]
 
@@ -265,7 +271,7 @@ As mentioned earlier, we are a young and growing team of learners. We are still 
 
 [B][SIZE="4"]ROM Source: [URL="https://github.com/Colt-Enigma"]ColtOS Source Codes[/URL][/B][/SIZE]
 
-[B][SIZE="4"]Kernel Source: [URL="https://github.com/xyz"]Kernel[/URL][/B][/SIZE]
+[B][SIZE="4"]Kernel Source: [URL="https://github.com/ColtOS-Devices/]Kernel[/URL][/B][/SIZE]
 
 [B][SIZE="4"]G+ Community: [URL="https://plus.google.com/u/0/communities/102067248475500399675"]ColtOS on Google Plus[/URL][/B][/SIZE]
 
@@ -294,8 +300,4 @@ That said, ColtOS team would like to THANK to....
 
 **[B][SIZE="3"][COLOR="SeaGreen"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/COLOR][/SIZE][/B]**
 
-[IMG]https://s26.postimg.cc/susnl7hgp/Notes_From_Dev2.png[/IMG]
-
-
 [/LEFT]
-
