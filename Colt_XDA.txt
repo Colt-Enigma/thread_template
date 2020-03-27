@@ -1,0 +1,78 @@
+[FONT="Comic Sans MS"][CENTER][IMG]https://github.com/Colt-Enigma/thread_template/blob/c10/Media/colt_banner.png?raw=true[/CENTER][/IMG]
+
+[CODE][CENTER]
+[B]Standard Disclaimer [/B]
+
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+* Please do some research if you have any concerns about features included in this ROM before flashing it! 
+* YOU are choosing to make these modifications, and if you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! And Turn to Ashes...!!!
+[/CODE]
+
+[CENTER]
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Colt-OS-Banner.png[/IMG]
+
+[U][B][SIZE="4"]What's ColtOS[/U][/B][/SIZE]
+
+ColtOS Project is presented by a team of learners and it is crafted from AOSP Source with all the necessary customizations, without compromising the stability and security of the device.
+We have cherry-picked the features from many other roms/projects and we are very thankful to all of them!! We just crossed the Beta Phase for Oreo and are happy to announce the release of Colt-OS Andy10 based on Android 10.0
+Although there's no bugs experienced by us or testers, if you find any, please let us know with a logcat.
+
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Features%20-%20Colt%20OS.png[/IMG]
+
+[SIZE="4"][B]We Got Some Cool Features Like:[/B][/SIZE]
+Customizable  VoLTE Icons
+Themes
+LongShot
+Selectable Screen Lock Grid Size
+QS Footer
+Advance Power Menu
+[SIZE="3"][I]And lots of other features. You can check them out here: [url]https://github.com/Colt-Enigma/Colt-Enigma_Features[/url][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Colt-Downloads%20-%20Colt%20Os.png[/IMG]
+
+[B][SIZE="4"]All Downloads Can Be Found Here: [URL="https://sourceforge.net/projects/coltos/files/jasmine_sprout"]https://sourceforge.net/projects/coltos/files/jasmine_sprout[/URL][/B][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Team%20-%20Colt%20OS.png[/IMG]
+
+We, The ColtTeam, are a small group of working professionals from entirely different industry and have no relation to Android, Programming or Codes. As mentioned earlier, we are a young and growing team of learners. We are still learning and helping each other learn as well. Thanks to entire ColtOS team for giving their precious time to this Project.
+ [MENTION=5985430]Rakesh.Batra[/MENTION] : Lead Developer and Founder of ColtOS 
+ [MENTION=5044214]nitin.chobhe[/MENTION] : Project Contibutor/Device Maintainer)
+ [MENTION=8829870]SuperDroidBond[/MENTION] : Project Contributor
+ [MENTION=707157]dragono[/MENTION] : Project Contibutor/Device Maintainer)
+ [MENTION=5545371]Roger.T[/MENTION] : Graphics Designer
+ [MENTION=10130007]SiddharthBharadwaj[/MENTION] : All Rounder
+
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Source%20Links%20-%20Colt%20OS.png[/IMG]
+
+[B][SIZE="4"]ROM Source: [URL="https://github.com/Colt-Enigma"]ColtOS Source Codes[/URL][/B][/SIZE]
+
+[B][SIZE="4"]Kernel Source: [URL="https://github.com/SiddharthBharadwaj/android_kernel_xiaomi_jasmine_sprout"]Kernel[/URL][/B][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c10/Media/Credit%26Thanks%20-%20Colt%20OS.png[/IMG]
+
+[B]
+We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+
+That said, ColtOS team would like to THANK to....
+[/B]
+
+* [B][URL="https://github.com/LineageOS"]LineageOS/Cyanogenmod[/B][/URL]
+* [B][URL="https://github.com/GZOSP"]GZOSP[/URL][/B]
+* [B][URL="https://github.com/omnirom"]OmniROM][/B] [/URL]
+* [B][URL="https://github.com/nitrogen-project/Nitrogen OS"]Nitrogen OS[/B][/URL]
+* [B][URL="https://github.com/aicp"]AICP[/SIZE][/B][/URL]
+* [B][URL="https://github.com/crdroidandroid"]crDroid[/B][/URL]
+* [B][URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/B][/URL]
+* [B][URL="https://github.com/CypherOS"]CypherOS[/B][/URL]
+* [B][URL="https://github.com/LiquidRemix/"]Liquid Remix[/B][/URL]
+* [B][URL="https://github.com/BenzoROM/"]Benzo ROM[/B][/URL]
+* [B][URL="https://github.com/bootleggersrom/"]BootLeggers ROM[/B][/URL]
+* [B][URL="https://github.com/AospExtended/"]AOSP Extended ROM[/B][/URL]
+* [B][URL="https://github.com/Extended-UI/"]Extended-UI[/SIZE][/B][/URL]
+
+ [MENTION=8839584]Muthu_IN[/MENTION] For Beautiful Banners.
+
+**[B][COLOR="SeaGreen"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/COLOR][/B]**
+
+[/CENTER][/FONT]
