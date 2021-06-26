@@ -1,0 +1,97 @@
+Title: [ROM][11.0] ColtOS v7.x for <Device Name> [<devce_codename>][<Official or Unofficial>]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Banner_R_1.png[/IMG][/CENTER]
+
+[CODE]
+
+>> Standard Disclaimer <<
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+* Please do some research if you have any concerns about features included in this ROM before flashing it!
+* YOU are choosing to make these modifications, and if you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! And Turn to Ashes...!!!
+
+[/CODE]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Introduction.png[/IMG][/CENTER]
+
+[CENTER]
+
+[U][B]What's ColtOS[/B][/U]
+Needless to say, ColtOS Project is custom ROM based on AOSP by a team of learners with all the necessary customizations, without compromising the stability and security of the device.
+We have cherry-picked the features from many other open-source roms/projects and we are very thankful to all of them!
+We try to keep ColtOS as stable as possible, on an off chance you faced any issues with official builds, please let us know via our [URL="https://t.me/ColtEnigma"] official telegram group [/URL] or XDA thread.
+
+[U][B]Team ColtOS[/U][/B]
+We, The ColtOS Team, are a bunch of Android enthusiast coming from a wide variety of industries (some of them don't even belong to anything related to programming or coding). But we like what we do.
+We are young and growing team of learners. We are still learning and helping each other learn as well. Thanks to entire ColtOS team for giving their precious time to this Project.
+
+[/CENTER]
+
+[MENTION=5985430]Rakesh Batra[/MENTION] - [I]Lead Developer and Founder of ColtOS[/I]
+[MENTION=5044214]nitin.chobhe[/MENTION] - [I]Core Developer[/I]
+[MENTION=7813190]mg712702[/MENTION] - [I] Core Developer[/I]
+[MENTION=6626122]SaurabhCharde[/MENTION] - [I]Community Manager[/I]
+[MENTION=8829870]SuperDroidBond[/MENTION] - [I]Project Contributor[/I]
+[MENTION=5545371]Roger.T[/MENTION] - [I]Graphics Designer[/I]
+[MENTION=5678679]mukesh22584[/MENTION] - [I]Project Contributor[/I]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Feature List.png[/IMG][/CENTER]
+[CENTER][U][B][URL="https://github.com/Colt-Enigma/thread_template/blob/c11/Features.md"] Checkout the features here [/URL][/U][/B][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Downloads.png[/IMG][/CENTER]
+[CENTER][U][B][URL="https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/<device_codename>"] ColtOS Builds [/URL][/U][/B][/CENTER]
+[CENTER][U][B][URL="<link to whatever gapps you recommend>"] GApps Package [/URL][/U][/B][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Instructions.png[/IMG][/CENTER]
+
+First time installation:
+Download Rom, Gapps & Magisk (If you want ROOT)
+Reboot to recovery
+Format data (If Encrypted)
+Wipe system, vendor, cache, dalvik, data
+Flash Rom, Gapps & Magisk (optional)
+Flash DFE (if you don't want encryption)
+Flash latest firmware
+Reboot
+
+Update installation:
+Wipe system, vendor, cache, dalvik
+Flash Rom, Gapps & Magisk (optional)
+Reboot
+
+[B]NOTE:[/B][COLOR=red] If you fail to follow these instructions, please don't bother reporting any bugs. Also we do not
+support any Xposed or Magisk modules or any custom kernel so please keep in mind before reporting.[/COLOR]
+
+[CENTER][B][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Source%20Links.png[/IMG][/CENTER]
+[CENTER][URL="https://github.com/Colt-Enigma"] ColtOS Source [/URL]
+[URL="https://github.com/ColtOS-Devices"] ColtOS Device Sources [/URL]
+[URL="<kernel source here>"] Kernel Source [/URL][/B][/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Credits%20%26%20Thanks.png[/IMG][/CENTER]
+[CENTER]We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+That said, ColtOS team would like to thank to....
+[/CENTER]
+
+* LineageOS / Cyanogenmod
+* Project-Xtended
+* EvolutionX
+* OmniROM
+* Nitrogen OS
+* AICP
+* crDroid
+* DirtyUnicorns
+* Bliss Roms
+* BootLeggers
+* AOSP Extended ROM
+* DerpFest
+* Project-404
+* DotOS
+* CorvusOS
+
+**If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.**
+
+
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Notes%20From%20Dev.png[/IMG][/CENTER]
+
+
+<Your notes here, if u have any, like bugs, etc....>
