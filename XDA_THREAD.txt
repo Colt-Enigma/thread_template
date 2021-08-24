@@ -1,6 +1,6 @@
 Title: [ROM][11.0] ColtOS v7.x for <Device Name> [<devce_codename>][<Official or Unofficial>]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Banner_R_1.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Banner_R_1.png?raw=true[/IMG][/CENTER]
 
 [CODE]
 
@@ -12,7 +12,7 @@ Title: [ROM][11.0] ColtOS v7.x for <Device Name> [<devce_codename>][<Official or
 
 [/CODE]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Introduction.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Introduction.png?raw=true[/IMG][/CENTER]
 
 [CENTER]
 
@@ -35,14 +35,14 @@ We are young and growing team of learners. We are still learning and helping eac
 [MENTION=5545371]Roger.T[/MENTION] - [I]Graphics Designer[/I]
 [MENTION=5678679]mukesh22584[/MENTION] - [I]Project Contributor[/I]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Feature List.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Feature List.png?raw=true[/IMG][/CENTER]
 [CENTER][U][B][URL="https://github.com/Colt-Enigma/thread_template/blob/c11/Features.md"] Checkout the features here [/URL][/U][/B][/CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Downloads.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Downloads.png?raw=true[/IMG][/CENTER]
 [CENTER][U][B][URL="https://sourceforge.net/projects/coltos/files/ColtOS-v7.x/<device_codename>"] ColtOS Builds [/URL][/U][/B][/CENTER]
 [CENTER][U][B][URL="<link to whatever gapps you recommend>"] GApps Package [/URL][/U][/B][/CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Instructions.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Instructions.png?raw=true[/IMG][/CENTER]
 
 First time installation:
 Download Rom, Gapps & Magisk (If you want ROOT)
@@ -62,12 +62,12 @@ Reboot
 [B]NOTE:[/B][COLOR=red] If you fail to follow these instructions, please don't bother reporting any bugs. Also we do not
 support any Xposed or Magisk modules or any custom kernel so please keep in mind before reporting.[/COLOR]
 
-[CENTER][B][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Source%20Links.png[/IMG][/CENTER]
+[CENTER][B][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Source%20Links.png?raw=true[/IMG][/CENTER]
 [CENTER][URL="https://github.com/Colt-Enigma"] ColtOS Source [/URL]
 [URL="https://github.com/ColtOS-Devices"] ColtOS Device Sources [/URL]
 [URL="<kernel source here>"] Kernel Source [/URL][/B][/CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Credits%20%26%20Thanks.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Credits%20%26%20Thanks.png?raw=true[/IMG][/CENTER]
 [CENTER]We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
 That said, ColtOS team would like to thank to....
 [/CENTER]
@@ -91,7 +91,7 @@ That said, ColtOS team would like to thank to....
 **If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.**
 
 
-[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Notes%20From%20Dev.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/Colt-Enigma/thread_template/c11/images/Notes%20From%20Dev.png?raw=true[/IMG][/CENTER]
 
 
 <Your notes here, if u have any, like bugs, etc....>
